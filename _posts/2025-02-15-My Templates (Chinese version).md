@@ -1,7 +1,3 @@
----
-title: "My Templates (Chinese version)"
-date: 2025-02-15
----
 # 蒟蒻 tallnut 的模板库
 [也可在 GitHub 上食用！](https://github.com/tallnutliu/Template-Library)
 ## 使用说明
