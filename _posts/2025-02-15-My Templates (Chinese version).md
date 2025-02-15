@@ -1,7 +1,7 @@
 # 蒟蒻 tallnut 的模板库
 ## 使用说明
 - 除特殊说明外，这个模板库所有代码都是我写的。
-- 所有模板中的数组下标均从 $1$ 开始。
+- 所有模板中的数组下标均从 1 开始。
 ## 工具性
 - [缺省源](https://tallnutliu.github.io/github-pages/2025/02/15/My-Templates-Default-Source.html)
 - [debug 模板](https://tallnutliu.github.io/github-pages/2025/02/15/My-Templates-Debug-Template.html)（转载自别人的）
