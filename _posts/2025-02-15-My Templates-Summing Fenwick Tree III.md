@@ -1,5 +1,5 @@
 # 蒟蒻 tallnut 的模板库 - 求和树状数组（区间修改、区间查询）
-## [返回模板库目录](https://www.luogu.com.cn/paste/yw5teupm)
+## [返回模板库目录](https://tallnutliu.github.io/github-pages/2025/02/15/My-Templates-(Chinese-version).html)
 ## 功能
 这个类实现了区间修改和区间查询的求和超级树状数组功能。
 ## 使用方式：
