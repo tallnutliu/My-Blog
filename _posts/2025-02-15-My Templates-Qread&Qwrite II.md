@@ -1,6 +1,6 @@
 # 蒟蒻 tallnut 的模板库 - 快读、快写 Ⅱ
 注：[原文链接](https://codeforces.com/blog/entry/129808)，完全复制自这里。
-## [返回模板库目录](https://www.luogu.com.cn/paste/yw5teupm)
+## [返回模板库目录](https://tallnutliu.github.io/github-pages/2025/02/15/My-Templates-(Chinese-version).html)
 ## 功能
 实现了 `fin,fout` 这两个类，用法和 `cin,cout` 完全一样，但更快。
 ## 使用方式
