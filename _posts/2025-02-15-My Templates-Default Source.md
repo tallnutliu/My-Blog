@@ -1,5 +1,5 @@
 # 蒟蒻 tallnut 的模板库 - 缺省源
-## [返回模板库目录](https://www.luogu.com.cn/paste/yw5teupm)
+## [返回模板库目录](https://tallnutliu.github.io/github-pages/2025/02/15/My-Templates-(Chinese-version).html)
 ## 功能
 一个缺省源，没什么好说的。（适用于 VS Code）
 ## 使用方式
