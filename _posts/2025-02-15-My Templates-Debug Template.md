@@ -1,6 +1,6 @@
 # 蒟蒻 tallnut 的模板库 - debug 模板
 注：[原文链接](https://codeforces.com/blog/entry/125435)，完全复制自这里。
-## [返回模板库目录](https://www.luogu.com.cn/paste/yw5teupm)
+## [返回模板库目录](https://tallnutliu.github.io/github-pages/2025/02/15/My-Templates-(Chinese-version).html)
 ## 功能
 通过函数进行 `debug`，打印变量值等，而且在提交的时候不需要删除调试语句。
 ## 使用方式
