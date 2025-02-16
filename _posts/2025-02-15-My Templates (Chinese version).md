@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 蒟蒻 tallnut 的模板库
 date: 2025-02-15
 ---
