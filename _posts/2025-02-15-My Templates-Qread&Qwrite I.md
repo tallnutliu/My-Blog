@@ -1,6 +1,6 @@
 # 蒟蒻 tallnut 的模板库 - 快读、快写
 
-## [返回模板库目录](https://tallnutliu.github.io/github-pages/2025/02/15/My-Templates-(Chinese-version).html)
+## [返回模板库目录](https://tallnutliu.github.io/My-Blog/2025/02/15/My-Templates-(Chinese-version).html)
 
 ## 功能
 这实现了一些函数，支持对 `int`，`unsigned`，`long long`，`unsigned long long` 的快读、快写。
