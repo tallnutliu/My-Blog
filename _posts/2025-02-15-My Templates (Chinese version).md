@@ -2,7 +2,6 @@
 layout: default
 title: 蒟蒻 tallnut 的模板库
 date: 2025-02-15
-tags: "My Templates"
 ---
 
 # 蒟蒻 tallnut 的模板库
