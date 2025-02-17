@@ -1,6 +1,6 @@
 # 蒟蒻 tallnut 的模板库 - 求和线段树
 
-## [返回模板库目录](https://tallnutliu.github.io/My-Blog/2025/02/15/My-Templates-(Chinese-version).html)
+## [返回模板库目录](https://tallnutliu.github.io/2025/02/15/My-Templates-(Chinese-version).html)
 
 ## 功能
 这个类实现了区间修改、求和线段树功能。
