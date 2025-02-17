@@ -1,6 +1,6 @@
 # 蒟蒻 tallnut 的模板库 - 字符串哈希
 
-## [返回模板库目录](https://tallnutliu.github.io/My-Blog/2025/02/15/My-Templates-(Chinese-version).html)
+## [返回模板库目录](https://tallnutliu.github.io/2025/02/15/My-Templates-(Chinese-version).html)
 
 ## 功能
 这个类实现了查询给定字符串的子串哈希值的功能，底层使用了双哈希。
