@@ -1,6 +1,6 @@
 # 蒟蒻 tallnut 的模板库 - max 线段树
 
-## [返回模板库目录](https://tallnutliu.github.io/My-Blog/2025/02/15/My-Templates-(Chinese-version).html)
+## [返回模板库目录](https://tallnutliu.github.io/2025/02/15/My-Templates-(Chinese-version).html)
 
 ## 功能
 这个类实现了单点修改最大值、单点或区间查询最大值线段树功能。
