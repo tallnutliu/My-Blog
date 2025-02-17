@@ -1,6 +1,6 @@
 # 蒟蒻 tallnut 的模板库 - 离散化
 
-## [返回模板库目录](https://tallnutliu.github.io/My-Blog/2025/02/15/My-Templates-(Chinese-version).html)
+## [返回模板库目录](https://tallnutliu.github.io/2025/02/15/My-Templates-(Chinese-version).html)
 
 ## 功能
 实现了一个对数组进行离散化的函数。
