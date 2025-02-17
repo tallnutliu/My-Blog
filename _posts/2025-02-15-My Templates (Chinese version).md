@@ -24,4 +24,4 @@
 - [字符串哈希](https://tallnutliu.github.io/2025/02/15/My-Templates-String-Hash.html)
 
 ## 算法
-- [离散化](https://tallnutliu.github.io/My-Blog/2025/02/15/My-Templates-Discretization.html)
+- [离散化](https://tallnutliu.github.io/2025/02/15/My-Templates-Discretization.html)
